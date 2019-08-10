@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CEP</string>
+    <string name="digite_o_cep_abaxio">Digite o CEP abaxio:</string>
+    <string name="recuperar_dados">Recuperar dados</string>
+    <string name="resutado">Resutado</string>
+    <string name="cep">CEP:</string>
+</resources>
